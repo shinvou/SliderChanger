@@ -1,0 +1,8 @@
+Package: com.shinvou.SliderChanger
+Name: SliderChanger
+Depends: com.ex.substitute
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SliderChanger
+Author: Timm Kandziora
+Section: Tweaks
